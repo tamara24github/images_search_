@@ -1,7 +1,7 @@
 <h1><strong> Development Techniques: </strong></h1>
 <h3> Class and Functional Components; <br/>
-life cycle methods, state; <br/>
-libraries: axios; <br/> </h3>
+life cycle methods, state, Unsplash; <br/>
+libraries: axios, semantic-ui; <br/> </h3>
 
 # Getting Started with Create React App
 
